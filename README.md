@@ -1,2 +1,2 @@
 # projects 
-# --- this is my personel portfolio 
+# --- this is my personel portfolio beta version 
